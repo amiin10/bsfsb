@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "ePINN-AF: Enhanced Physics-Informed Neural Networks with Attention-Fuzzy Logic"
+type: software
+authors:
+  - family-names: "Hosseini"
+    given-names: "Amin"
+    affiliation: "Amirkabir University of Technology (Tehran Polytechnic)"
+    email: "amin.hosseini1@aut.ac.ir"
+repository-code: "https://github.com/amiin10/ePINN-AF"
+license: MIT
+# A companion paper is in preparation; update this file with the DOI /
+# bibliographic details once it is published.
